@@ -1,0 +1,68 @@
+    h1{
+        color: rgb(35, 34, 33);
+        font-size: 60px;
+        font-family: arial;
+        text-align: center;
+    }
+    h2{
+        color: rgb(65, 61, 61);
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: centre;
+    }
+
+    body{
+        background-color: rgb(65, 170, 209);
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 32px;
+  }
+  
+  h3 {
+    font-size: 24px;
+  }
